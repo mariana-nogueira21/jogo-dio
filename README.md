@@ -12,6 +12,8 @@ Este projeto é uma recriação do clássico **jogo da cobrinha** usando **HTML5
 - Evite colidir com o próprio corpo.
 - Quanto mais você cresce, mais rápido o jogo fica!
 
+**Link para jogar:** [https://mariana-nogueira21.github.io/jogo-dio/](https://mariana-nogueira21.github.io/jogo-dio/)
+
 ---
 
 ## 🧠 Tecnologias Utilizadas
